@@ -1,7 +1,7 @@
 # Base configs
-baseurl: 
-image_fulls_loc:
-image_thumbs_loc: 
+baseurl: "https://grace-li-cam.github.io/album/"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
 google_analytics: 
 
 # UI configs
